@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Jamie Sinn",
+    "label": "Programmer/Systems Administrator",
+    "picture": "",
+    "email": "james.sinn@sinndevelopment.com",
+    "phone": "(905) 599-7026",
+    "website": "https://jamiesinn.ca",
+    "summary": "",
+    "location": {
+      "address": "460 Bedford Road",
+      "postalCode": "L6J4X9",
+      "city": "Oakville",
+      "countryCode": "Canada",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jamiesinn",
+        "url": "https://github.com/jamiesinn"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sinn Development",
+      "position": "CEO/Founder",
+      "website": "https://sinndev.com",
+      "startDate": "2013-11-27",
+      "endDate": "Present",
+      "summary": "Sinn Development is a software and game development company. Currently licensed to publish on all major consoles. With several software projects released, as well as a large open source repository.",
+      "highlights": []
+    },
+    {
+      "company": "EcoCityCraft",
+      "position": "Lead Developer and Systems Administrator",
+      "website": "https://ecocitycraft.com",
+      "startDate": "2014-07-20",
+      "endDate": "2018-07-20",
+      "summary": "EcoCityCraft is an economy based Minecraft Server with over 30,000 users registered. I created and developed all of the plugins used on the server, which range from complete administration tools, to features and minigames. I also manage the server backend itself, as well as the Jenkins CI Server.",
+      "highlights": []
+    },
+    {
+      "company": "GotPVP",
+      "position": "Developer and Systems Administrator",
+      "website": "http://gotpvp.com",
+      "startDate": "2016-06-01",
+      "endDate": "2017-01-01",
+      "summary": "GotPVP is one of the largest PVP networks in multiplayer Minecraft, with over 10 gamemodes to choose from. I manage and maintain all of the Linux server backends as well as develop and bugfix any plugins as required.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "FIRST",
+      "position": "Student Mentor - FRC 1334",
+      "website": "http://1334.ca",
+      "startDate": "2016-09-01",
+      "endDate": "2020-09-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "area": "Geomatics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-09-02",
+      "endDate": "2017-04-02",
+      "gpa": "",
+      "courses": [
+        "CS 135 - Designing Functional Programs",
+        "CS 136 - Elementary Algorithm Design and Data Abstraction"
+      ]
+    },
+    {
+      "institution": "Sheridan College",
+      "area": "Information Systems Security",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-04",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "BMO Financial Group Undergraduate Entrance Scholarship",
+      "date": "2016-11-12",
+      "awarder": "University of Waterloo",
+      "summary": ""
+    },
+    {
+      "title": "University of Waterloo President's Scholarship",
+      "date": "2016-09-12",
+      "awarder": "University of Waterloo",
+      "summary": ""
+    },
+    {
+      "title": "Faculty of Environment Entrance Scholarship",
+      "date": "2016-09-12",
+      "awarder": "University of Waterloo",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "FRC IntelliJ IDEA Getting Started with GradleRIO",
+      "publisher": "Jamie Sinn",
+      "releaseDate": "2016-05-19",
+      "website": "http://wat.sinnpi.com/dl/FRC%20Getting%20Started%20-%20IntelliJ%20IDEA.pdf",
+      "summary": "Getting started guide for FIRST Robotics Competition, and the IntelliJ IDEA Java IDE."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Golang",
+        "Python",
+        "C#",
+        "C++",
+        "SQL",
+        "Jenkins CI"
+      ]
+    },
+    {
+      "name": "Systems Administration",
+      "level": "Advanced",
+      "keywords": [
+        "Ansible",
+        "Linux",
+        "Windows Server",
+        "VMware vSphere"
+      ]
+    },
+    {
+      "name": "Network Administration",
+      "level": "Beginner",
+      "keywords": [
+        "Cisco"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
