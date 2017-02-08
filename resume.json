@@ -4,13 +4,13 @@
     "label": "Programmer/Systems Administrator",
     "picture": "",
     "email": "james.sinn@sinndevelopment.com",
-    "phone": "(905) 599-7026",
+    "phone": "REDACTED",
     "website": "https://jamiesinn.ca",
     "summary": "",
     "location": {
-      "address": "460 Bedford Road",
-      "postalCode": "L6J4X9",
-      "city": "Oakville",
+      "address": "REDACTED",
+      "postalCode": "REDACTED",
+      "city": "REDACTED",
       "countryCode": "Canada",
       "region": "Ontario"
     },
@@ -48,6 +48,15 @@
       "startDate": "2016-06-01",
       "endDate": "2017-01-01",
       "summary": "GotPVP is one of the largest PVP networks in multiplayer Minecraft, with over 10 gamemodes to choose from. I manage and maintain all of the Linux server backends as well as develop and bugfix any plugins as required.",
+      "highlights": []
+    },
+    {
+      "company": "PrimeMC",
+      "position": "Developer",
+      "website": "https://primemc.org",
+      "startDate": "2017-02-05",
+      "endDate": "2017-12-12",
+      "summary": "PrimeMC is one of the largest Minecraft networks, with an average of 2500 concurrent players online. I developed several custom integrations and features.",
       "highlights": []
     }
   ],
