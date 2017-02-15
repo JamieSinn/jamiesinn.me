@@ -28,7 +28,7 @@
       "position": "CEO/Founder",
       "website": "https://sinndev.com",
       "startDate": "2013-11-27",
-      "endDate": "Present",
+      "endDate": "2020-11-24",
       "summary": "Sinn Development is a software and game development company. Currently licensed to publish on all major consoles. With several software projects released, as well as a large open source repository.",
       "highlights": []
     },
@@ -47,7 +47,7 @@
       "website": "http://gotpvp.com",
       "startDate": "2016-06-01",
       "endDate": "2017-01-01",
-      "summary": "GotPVP is one of the largest PVP networks in multiplayer Minecraft, with over 10 gamemodes to choose from. I manage and maintain all of the Linux server backends as well as develop and bugfix any plugins as required.",
+      "summary": "GotPVP is a large PVP network for Multiplayer Minecraft, with over 10 gamemodes to choose from. I manage and maintain all of the Linux server backends as well as develop and bugfix any plugins as required.",
       "highlights": []
     },
     {
@@ -56,7 +56,7 @@
       "website": "https://primemc.org",
       "startDate": "2017-02-05",
       "endDate": "2017-12-12",
-      "summary": "PrimeMC is one of the largest Minecraft networks, with an average of 2500 concurrent players online. I developed several custom integrations and features.",
+      "summary": "PrimeMC is one of the largest Minecraft networks, with an average of 2000 concurrent players online. I developed several custom integrations and features along with implementing and maintaining a Sonatype Nexus Maven repository and a Jenkins CI system to assist with development.",
       "highlights": []
     }
   ],
@@ -77,7 +77,7 @@
       "area": "Geomatics Engineering",
       "studyType": "Bachelor",
       "startDate": "2016-09-02",
-      "endDate": "2017-04-02",
+      "endDate": "2017-04-26",
       "gpa": "",
       "courses": [
         "CS 135 - Designing Functional Programs",
@@ -89,7 +89,7 @@
       "area": "Information Systems Security",
       "studyType": "Bachelor",
       "startDate": "2017-09-04",
-      "endDate": "",
+      "endDate": "2021-04-25",
       "gpa": "",
       "courses": []
     }
@@ -133,7 +133,7 @@
         "Python",
         "C#",
         "C++",
-        "SQL",
+        "MySQL",
         "Jenkins CI"
       ]
     },
@@ -151,7 +151,8 @@
       "name": "Network Administration",
       "level": "Beginner",
       "keywords": [
-        "Cisco"
+        "Cisco",
+	"CCNA"
       ]
     }
   ],
@@ -159,3 +160,4 @@
   "interests": [],
   "references": []
 }
+
